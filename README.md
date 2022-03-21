@@ -8,9 +8,13 @@ Currently, there is no easy way to query the data to generate the results, since
 They'd like a data engineer to create an Apache Cassandra database which can create queries on song play data to answer the questions.
 To complete the project, we need to model our data by creating tables in Apache Cassandra to run queries.
 
-### Datasets:
+### Project Datasets:
 
 For this project, we work with one dataset: event_data, the directory of CSV files partitioned by date.
+
+### Project files:
+
+### Apache_cassandra.ipynb is the file used to perform all the project steps listed below.
 
 ### Project Steps:
 
