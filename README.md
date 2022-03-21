@@ -14,7 +14,7 @@ For this project, we work with one dataset: event_data, the directory of CSV fil
 
 ### Project files:
 
-### Apache_cassandra.ipynb is the file used to perform all the project steps listed below.
+Apache_cassandra.ipynb is the file used to perform all the project steps listed below.
 
 ### Project Steps:
 
